@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Hello everybody! I'm Andrea Luján Ochoaispuru
+✨ Hello everybody! I'm Andrea Luján Ochoaispuru ✨
 
-A full-stack developer
+✨ A full-stack developer
 
 💬 Ask me about React, Javascript, Node, Sequelize.
 
@@ -14,17 +14,17 @@ Skills:
 
 Front end
 
-html5 css3 javascript react redux
+html5 - css3 - javascript - react - redux
 
 Back end
 
-nodejs express sequelize firebase postgresql mysql
+nodejs - express - sequelize - firebase - postgresql - mysql
 
 Tools
 
-figma photoshop visualCode git thunderClient babel postman
+figma - photoshop - visualCode - git - thunderClient - babel - postman
 
-Do not hesitate to contact me !!
+Do not hesitate to contact me !! 😄
 
 <!--
 **olandrea/olandrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
