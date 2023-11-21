@@ -8,6 +8,8 @@
 
 📫 How to reach me andreaochoaispuru@gmail.com
 
+📄 Know about my experiences https://docs.google.com/document/d/1uchGr2-mDkCC8S2kIrGaGeRX60b1cj_E9ZMzEz0Q0K0/edit?usp=sharing
+
 ⚡I'm interesting in Full-stack role
 
 Skills:
