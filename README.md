@@ -28,6 +28,8 @@ figma - photoshop - Visual Studio Code - git - thunderClient - babel - postman
 
 Do not hesitate to contact me !! 😄
 
+📄 https://www.linkedin.com/in/andrea-ochoaispuru-625391228/
+
 <!--
 **olandrea/olandrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
